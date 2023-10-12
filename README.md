@@ -4,7 +4,6 @@ Welcome to **The Social App**!
 A place where thoughts collide and discussions are limitless.
 Connect with your friends, share your thoughts, and engage with reactions.
 
-![App Preview](./path/to/your/screenshot.png)
 
 ## 📌 Table of Contents
 
@@ -43,7 +42,7 @@ To clone the repository, use the following command:
 
 ## 🎥 Video Overview
 
-Check out this [video overview](https://link-to-your-video.com) to see the app in action and get a quick walkthrough.
+Check out this [video overview](https://drive.google.com/file/d/1otsFKcJ_i2DYBeDaItw541arWNVlKae4/view?usp=drive_link) to see the app in action and get a quick walkthrough.
 
 ## 💡 Contributing
 
